@@ -1,1 +1,1 @@
-# Dimond-Price-Prediction
+## MAchine Learning Projects
